@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>jidutianxia</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-10-19T06:45:50.000Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>jidutianxia</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/posts/4a17b156.html"/>
+    <id>http://example.com/posts/4a17b156.html</id>
+    <published>2024-10-19T10:26:13.817Z</published>
+    <updated>2024-10-19T06:45:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇文章</title>
+    <link href="http://example.com/posts/5c2fafc7.html"/>
+    <id>http://example.com/posts/5c2fafc7.html</id>
+    <published>2024-10-15T16:00:00.000Z</published>
+    <updated>2024-10-15T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h1><h2 id="1-1"><a href="#1-1" class="headerlink" title="1.1"></a>1.1</h2><p>dawd<br>awda<br>awdadaw</p><ol><li>adwaad</li><li>awdawd<ol><li>awdawda</li><li>awdawda<br>1.无敌 </li><li>awdawda</li></ol></li><li>awda sdad<br><img src="/%7B9E1575F4-3E51-4032-9428-771A26FBF186%7D.png" alt="alt text"></li></ol><table><thead><tr><th>awdad</th><th align="center">DAD</th><th>dawdawd</th></tr></thead><tbody><tr><td>1</td><td align="center">2</td><td>3</td></tr><tr><td>4</td><td align="center">5</td><td>6</td></tr></tbody></table><ul><li>adaw</li><li>awda<ul><li>dawd</li><li>awdad </li><li>dawd</li><li>awda<ul><li>dawda</li><li>dwa</li></ul></li><li>adwa</li></ul></li><li>dwada</li></ul><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">MyClass</span> &#123;&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">这是第一篇文章</summary>
+    
+    
+    
+    <category term="Hexo" scheme="http://example.com/categories/Hexo/"/>
+    
+    
+    <category term="标签1" scheme="http://example.com/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+  </entry>
+  
+</feed>
